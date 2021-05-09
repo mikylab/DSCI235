@@ -7,8 +7,8 @@ The dataset contains the results of each fixture (game) played, but not the leag
 
 ------
 1. Is there a home field advantage?
-    - How does the average goals scored at home per season compared to the average number of goals scored away?
-    - Is there a difference in the amount of home wins and away wins in each season?
+    - How does the average number of goals scored at home per season compared to the average number of goals scored away?
+    - Is there a difference in the number of home wins and away wins in each season?
 2. Can the league table for each season be created based on the results in the raw dataset?
 3. Which team accumulated the most points over the seasons? 
 4. Does the cutoff for being in the top four and bottom four change each year? 
